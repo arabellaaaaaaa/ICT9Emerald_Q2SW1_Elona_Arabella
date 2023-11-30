@@ -2,3 +2,6 @@ div {text-align: center;}
 table {margin-left: auto; margin-right: auto; background-color: burlywood; border-color: darkolivegreen;}
 body {background-color: forestgreen;}
 tr {font-weight: bold;}
+th {background-color: burlywood;}
+td {background-color: beige; font-family: sans-serif;}
+p {font-style: italic;}
